@@ -39,7 +39,7 @@
 					<v8:content>Демонстрационное приложение</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment> </Comment>
+			<Comment>1.0.0.1</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_26</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
